@@ -1,8 +1,8 @@
 # 🥃(기주 이미지)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/18a673f2-d502-4463-af06-df399a6fd6ba" alt="설명" width="400"/>
-</p>
+  <img src="https://github.com/user-attachments/assets/87617cf0-cfd4-457b-b638-9f90c6189958" alt="설명" width="400"/>
+
 <h2 align="center">기주</h2>
 
 **그대를 향해 술을 부치다**  
@@ -24,6 +24,22 @@
 |--------|--------|--------|---------|
 | <img src="이미지_경로1" width="100"/> | <img src="이미지_경로2" width="100"/> | <img src="이미지_경로3" width="100"/> | <img src="이미지_경로4" width="100"/> |
 | [김선준](https://github.com/kimseonj) | [김창환](https://github.com/hwan4338) | [최종빈](https://github.com/jongbinchoi) | [장인찬](https://github.com/JangInChan) |
+
+---
+
+## 💻 시연
+| 소셜 로그인 | 상품 페이지 |
+|-------------|--------------|
+| <img src="./로그인.gif" width="320"/> | <img src="./gifs/상품페이지.gif" width="320"/> |
+
+| 결제 | 리뷰 작성 |
+|--------|-------------|
+| <img src="./gifs/결제.gif" width="320"/> | <img src="./gifs/리뷰.gif" width="320"/> |
+
+| 랭킹 시스템 | 지역 탐색 |
+|--------------|--------------|
+| <img src="./gifs/랭킹.gif" width="320"/> | <img src="./gifs/지도.gif" width="320"/> |
+
 
 
 ---
