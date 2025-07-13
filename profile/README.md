@@ -22,7 +22,7 @@
 
 | Backend | Backend | Backend | Frontend |
 |--------|--------|--------|---------|
-| <img src="이미지_경로1" width="100"/> | <img src="이미지_경로2" width="100"/> | <img src="이미지_경로3" width="100"/> | <img src="이미지_경로4" width="100"/> |
+| <img src="https://avatars.githubusercontent.com/u/97016371?v=4" width="100" alt="Kimseonj's Profile"/> | <img src="https://avatars.githubusercontent.com/u/49217569?v=4" width="100" alt="hwan4338's Profile"/> | <img src="https://avatars.githubusercontent.com/u/48951477?v=4" width="100" alt="jongbinchoi's Profile"/> | <img src="https://avatars.githubusercontent.com/u/178686486?v=4" width="100"  alt="JangInChan's Profile"/> |
 | [김선준](https://github.com/kimseonj) | [김창환](https://github.com/hwan4338) | [최종빈](https://github.com/jongbinchoi) | [장인찬](https://github.com/JangInChan) |
 
 ---
