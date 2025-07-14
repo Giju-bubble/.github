@@ -30,15 +30,15 @@
 ## 💻 시연
 | 지역 탐색 | 소셜 로그인 |
 |-------------|--------------|
-| <img src="./gifs/지도.gif" width="500"/> | <img src="./gifs/로그인.gif" width="500"/> |
+| <img src="./gifs/지도.gif" width="475"/> | <img src="./gifs/로그인.gif" width="475"/> |
 
 | 상품 페이지 | 랭킹 시스템 |
 |--------|-------------|
-| <img src="./gifs/상세페이지.gif" width="500"/> | <img src="./gifs/랭킹.gif" width="500"/> |
+| <img src="./gifs/상세페이지.gif" width="475"/> | <img src="./gifs/랭킹.gif" width="475"/> |
 
 | 결제 | 리뷰 작성 |
 |--------------|--------------|
-| <img src="./gifs/결제.gif" width="500"/> | <img src="./gifs/리뷰.gif" width="500"/> |
+| <img src="./gifs/결제.gif" width="475"/> | <img src="./gifs/리뷰.gif" width="475"/> |
 
 ---
 
