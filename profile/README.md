@@ -38,7 +38,7 @@
 
 | 결제 | 리뷰 작성 |
 |--------------|--------------|
-| <img src="./gifs/결제.gif" width="475"/> | <img src="./gifs/리뷰.gif" width="475"/> |
+| <img src="./gifs/결제.gif" width="475"/> | <img src="./gifs/리뷰.gif" width="475"/> |
 
 ---
 
