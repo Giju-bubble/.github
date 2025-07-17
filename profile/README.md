@@ -50,7 +50,7 @@
 ## 🛠️ 기술 스택
 
 ### 🔹 Backend
-<img width="761" height="734" alt="스크린샷 2025-07-15 12 57 03" src="https://github.com/user-attachments/assets/d3514941-53e4-480f-8d88-7844287d5b58" />
+<img width="761" alt="image" src="https://github.com/user-attachments/assets/28d06e54-943c-4c64-acc8-236921ed09b8" />
 
 - **Language**: Java 21
 - **Frameworks**: Spring Framework, Spring Boot 3.4.5
@@ -63,6 +63,7 @@
   - 지도: Kakao Map API
 
 ### 🔹 Frontend
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/6302b315-29ca-4d7f-89f6-1e5d96f64ce0" />
 
 - **Language**: TypeScript
 - **Frameworks**: Next.js
@@ -79,24 +80,10 @@
 ## 🏗️ 프로젝트 아키텍쳐
 
 ### ⚙️ 백엔드 구조  
- <img width="1114" height="648" alt="스크린샷 2025-07-15 12 47 21" src="https://github.com/user-attachments/assets/fc8fb6d1-6d94-490e-bc9b-8b003b2be569" />
+<img width="1114" height="648" alt="스크린샷 2025-07-15 12 47 21" src="https://github.com/user-attachments/assets/fc8fb6d1-6d94-490e-bc9b-8b003b2be569" />
 
 ---
 
 ### 🔁 CI/CD
-
 <img width="1131" height="647" alt="스크린샷 2025-07-15 12 47 55" src="https://github.com/user-attachments/assets/14223081-0319-4371-8639-6e33ade067fe" />
 
----
-
-### 💻 프론트 구조
-
-> 이미지 삽입 예정  
-`(여기에 프론트엔드 디렉토리 구조 이미지 또는 설명을 삽입할 예정입니다.)`
-
-- Next.js 기반 서버 사이드 렌더링
-- 페이지/컴포넌트 분리
-- Tailwind CSS를 활용한 반응형 UI
-- 카카오 지도 및 결제 API 연동
-
----
